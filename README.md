@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+LIVE PREVIEW: https://weatherapp-bda70.web.app/
+I USED: React Router Dom
 ## Available Scripts
 
 In the project directory, you can run:
